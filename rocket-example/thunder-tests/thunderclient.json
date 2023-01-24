@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "63413b7e-4592-4880-842f-c48de50bf5cb",
+    "colId": "4cb4b70a-4a21-499d-a4f2-811d601ad291",
+    "containerId": "",
+    "name": "Request Id example",
+    "url": "{{baseUrl}}",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-01-20T03:15:02.006Z",
+    "modified": "2023-01-20T03:15:02.006Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "df0d2429-3efc-4abc-917d-6db8c58c7a30",
+    "colId": "4cb4b70a-4a21-499d-a4f2-811d601ad291",
+    "containerId": "",
+    "name": "Trace Example",
+    "url": "{{baseUrl}}/trace",
+    "method": "GET",
+    "sortNum": 20000,
+    "created": "2023-01-20T03:34:08.656Z",
+    "modified": "2023-01-20T03:34:26.061Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]

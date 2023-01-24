@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "094f04f4-e253-4d65-8b1c-939c57301932",
+    "name": "Local",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-01-20T01:19:37.059Z",
+    "modified": "2023-01-20T01:19:37.059Z",
+    "data": [
+      {
+        "name": "baseUrl",
+        "value": "http://localhost:8000"
+      }
+    ]
+  }
+]
